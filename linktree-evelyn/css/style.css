@@ -15,19 +15,19 @@ html, body {
 body {
     font-family: 'Raleway', sans-serif;
     color: white;
-    background: rgb(54,77,204);
-    background: linear-gradient(190deg, rgba(54,77,204,1) 0%, rgba(19,35,124,1) 100%, rgba(19,38,124,1) 100%);
+    background: rgb(255,46,99);
+    background: linear-gradient(180deg, rgba(255,46,99,1) 0%, rgba(217,8,96,1) 35%, rgba(8,217,214,1) 100%);
 }
 
 .avatar {
     width: 100px;
     border-radius: 50px;
     border: 3px solid white;
-    box-shadow: 0 0 20px white;
+    box-shadow: 0 0 10px white;
 }
 
 h1 {
-    font-family: 'Architects Daughter' , cursive;
+    font-family: 'Montserrat';
     font-weight: 100;
     font-size: 24px;
     margin-bottom: 2px;
@@ -35,7 +35,7 @@ h1 {
 
 h2 {
     font-size: 16px;
-    margin-bottom: 5px;
+    margin: 5px 5px
     
 }
 
